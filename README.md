@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey — I’m Silas.
 
-<!--
-**SilasPignotti/SilasPignotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geoinformation student (M.Sc., BHT Berlin) with a background in urban planning.
+I build tools and pipelines for spatial data analysis, geodata processing, and machine learning on geographic datasets.
 
-Here are some ideas to get you started:
+Currently working as Data Analytics Werkstudent at Interzero Plastics Sorting (Python, SQL).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+Python · SQL · GeoPandas · FastAPI · Flask · Google Earth Engine · Docker · Git
+
+## Projects
+
+- **[building-detector](https://github.com/SilasPignotti/building-detector)** — Point-guided building detection from satellite imagery using SAM2
+- **[urbanIQ](https://github.com/SilasPignotti/urbanIQ)** — NLP-driven geodata aggregation for Berlin district analysis
+- **[heatsense](https://github.com/SilasPignotti/heatsense)** — Urban heat island analysis with Landsat, weather stations, and land use data
+
+## Currently
+
+🌱 Working on my master’s thesis: urban heat islands from satellite time series (Sentinel-2, ML, cloud pipelines).
