@@ -1,4 +1,4 @@
-# Hey — I’m Silas.
+# Hey — I'm Silas.
 
 Geoinformation student (M.Sc., BHT Berlin) with a background in urban planning.
 I build tools and pipelines for spatial data analysis, geodata processing, and machine learning on geographic datasets.
@@ -14,7 +14,8 @@ Python · SQL · GeoPandas · FastAPI · Flask · Google Earth Engine · Docker 
 - **[building-detector](https://github.com/SilasPignotti/building-detector)** — Point-guided building detection from satellite imagery using SAM2
 - **[urbanIQ](https://github.com/SilasPignotti/urbanIQ)** — NLP-driven geodata aggregation for Berlin district analysis
 - **[heatsense](https://github.com/SilasPignotti/heatsense)** — Urban heat island analysis with Landsat, weather stations, and land use data
+- **[kitamap](https://github.com/SilasPignotti/kitamap)** — GIS-based daycare supply analysis for Berlin with time series forecasting and spatial coverage metrics
 
 ## Currently
 
-🌱 Working on my master’s thesis: urban heat islands from satellite time series (Sentinel-2, ML, cloud pipelines).
+🌱 Working on my master's thesis: urban heat islands from satellite time series (Sentinel-2, ML, cloud pipelines).
