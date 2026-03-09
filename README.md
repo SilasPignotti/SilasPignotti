@@ -11,10 +11,10 @@ Python · SQL · GeoPandas · FastAPI · Flask · Google Earth Engine · Docker 
 
 ## Projects
 
-- **[building-detector](https://github.com/SilasPignotti/building-detector)** — Point-guided building detection from satellite imagery using SAM2
-- **[urbanIQ](https://github.com/SilasPignotti/urbanIQ)** — NLP-driven geodata aggregation for Berlin district analysis
-- **[heatsense](https://github.com/SilasPignotti/heatsense)** — Urban heat island analysis with Landsat, weather stations, and land use data
-- **[kitamap](https://github.com/SilasPignotti/kitamap)** — GIS-based daycare supply analysis for Berlin with time series forecasting and spatial coverage metrics
+- **[building-detector](https://github.com/spignotti/building-detector)** — Point-guided building detection from satellite imagery using SAM2
+- **[urbanIQ](https://github.com/spignotti/urbanIQ)** — NLP-driven geodata aggregation for Berlin district analysis
+- **[heatsense](https://github.com/spignotti/heatsense)** — Urban heat island analysis with Landsat, weather stations, and land use data
+- **[kitamap](https://github.com/spignotti/kitamap)** — GIS-based daycare supply analysis for Berlin with time series forecasting and spatial coverage metrics
 
 ## Currently
 
