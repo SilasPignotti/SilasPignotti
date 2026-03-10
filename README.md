@@ -9,7 +9,11 @@ Currently working as Data Analytics Werkstudent at Interzero Plastics Sorting (P
 
 Python · SQL · GeoPandas · FastAPI · Flask · Google Earth Engine · Docker · Git
 
-## Projects
+## Open Source
+
+- **[litresearch](https://github.com/spignotti/litresearch)** — CLI for AI-powered academic literature research using Semantic Scholar and LLMs
+
+## Portfolio
 
 - **[building-detector](https://github.com/spignotti/building-detector)** — Point-guided building detection from satellite imagery using SAM2
 - **[urbanIQ](https://github.com/spignotti/urbanIQ)** — NLP-driven geodata aggregation for Berlin district analysis
@@ -18,4 +22,5 @@ Python · SQL · GeoPandas · FastAPI · Flask · Google Earth Engine · Docker 
 
 ## Currently
 
-🌱 Working on my master's thesis: urban heat islands from satellite time series (Sentinel-2, ML, cloud pipelines).
+🌱 Finishing my master's thesis on urban heat islands (Sentinel-2, ML, cloud pipelines).
+🔧 Building [litresearch](https://github.com/spignotti/litresearch) — an open-source CLI for automated literature research.
