@@ -11,6 +11,7 @@ Python · SQL · GeoPandas · FastAPI · Flask · Google Earth Engine · Docker 
 
 ## Open Source
 
+- **[renamr](https://github.com/spignotti/renamr)** — AI-powered CLI for rule-based file renaming with PDF and vision analysis
 - **[litresearch](https://github.com/spignotti/litresearch)** — CLI for AI-powered academic literature research using Semantic Scholar and LLMs
 
 ## Portfolio
