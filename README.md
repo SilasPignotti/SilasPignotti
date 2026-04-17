@@ -14,7 +14,7 @@ Python · SQL · GeoPandas · scikit-learn · PyTorch · Google Earth Engine · 
 - **[renamr](https://github.com/spignotti/renamr)** — AI-powered CLI for rule-based file renaming with PDF and vision analysis
 - **[litresearch](https://github.com/spignotti/litresearch)** — CLI for AI-powered academic literature research using Semantic Scholar and LLMs
 
-## Portfolio
+## Projects
 
 - **[building-detector](https://github.com/spignotti/building-detector)** — Point-guided building detection from satellite imagery using SAM2
 - **[urbanIQ](https://github.com/spignotti/urbanIQ)** — NLP-driven geodata aggregation for Berlin district analysis
@@ -24,5 +24,4 @@ Python · SQL · GeoPandas · scikit-learn · PyTorch · Google Earth Engine · 
 
 ## Currently
 
-🌱 Finishing my master's thesis on urban heat islands (Sentinel-2, ML, cloud pipelines).
-🔧 Building [litresearch](https://github.com/spignotti/litresearch) — an open-source CLI for automated literature research.
+🌱 Finishing my master's thesis on urban heat islands (Landsat, ML, cloud pipelines).
