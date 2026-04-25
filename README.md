@@ -16,12 +16,13 @@ Python · SQL · GeoPandas · scikit-learn · PyTorch · Google Earth Engine · 
 
 ## Projects
 
-- **[building-detector](https://github.com/spignotti/building-detector)** — Point-guided building detection from satellite imagery using SAM2
-- **[urbanIQ](https://github.com/spignotti/urbanIQ)** — NLP-driven geodata aggregation for Berlin district analysis
-- **[heatsense](https://github.com/spignotti/heatsense)** — Urban heat island analysis with Landsat, weather stations, and land use data
-- **[kitamap](https://github.com/spignotti/kitamap)** — GIS-based daycare supply analysis for Berlin with time series forecasting and spatial coverage metrics
+- **[academic-agent](https://github.com/spignotti/academic-agent)** — Agentic academic workflow with Zotero MCP server, PaperQA2 RAG, and Pandoc for literature management and writing
 - **[urban-tree-transfer](https://github.com/spignotti/urban-tree-transfer)** — Cross-city transfer learning for urban tree genus classification using multitemporal Sentinel-2 data (XGBoost, CNN-1D)
+- **[heatsense](https://github.com/spignotti/heatsense)** — Urban heat island analysis with Landsat, weather stations, and land use data
+- **[urbanIQ](https://github.com/spignotti/urbanIQ)** — NLP-driven geodata aggregation for Berlin district analysis
+- **[building-detector](https://github.com/spignotti/building-detector)** — Point-guided building detection from satellite imagery using SAM2
+- **[kitamap](https://github.com/spignotti/kitamap)** — GIS-based daycare supply analysis for Berlin with time series forecasting and spatial coverage metrics
 
 ## Currently
 
-🌱 Finishing my master's thesis on urban heat islands (Landsat, ML, cloud pipelines).
+🌱 Finishing my master's thesis on urban heat islands (Sentinel-2, ML, cloud pipelines).
